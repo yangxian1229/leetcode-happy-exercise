@@ -1,4 +1,4 @@
-package slid.window;
+package leetcode.slid.window;
 
 import java.util.HashMap;
 import java.util.Map;
